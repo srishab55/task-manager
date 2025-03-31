@@ -15,15 +15,3 @@ class Task:
 
     def __str__(self):
         return f"{self.task_id}: {self.task_name} - {self.task_description}"
-    
-
-"""
-
-create table taskInformation 
-(
-    task_id int primary key,
-    task_name varchar(255),
-    task_description varchar(255),
-    task_status varchar(255)
-);
-"""
