@@ -6,7 +6,8 @@
 /.pytest_cache/*
 /.coverage
 /.coverage.*
-/utils/__pycache__/*
-/modules/__pycache__/*
-/tests/__pycache__/*
-/services/__pycache__/*
+/src/utils/__pycache__/*
+/src/modules/__pycache__/*
+/src/tests/__pycache__/*
+/src/services/__pycache__/*
+/src/__pycache__/*
